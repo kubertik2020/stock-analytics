@@ -1,1 +1,2 @@
-
+How to run it: 
+PYTHONPATH=/Users/partha/Coding/Learnings/kuber/common/src/py python3 collector_main.py 
